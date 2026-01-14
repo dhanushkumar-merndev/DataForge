@@ -1,0 +1,5 @@
+{
+  "name": "DataForge",
+  "description": "A powerful, local-only data processor for merging, cleaning, and formatting Excel and CSV files directly in your browser.",
+  "requestFramePermissions": []
+}
